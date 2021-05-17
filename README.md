@@ -1,7 +1,7 @@
 
-### Bem vindo ao QG do CRIME CODE !  :man_scientist:
+### Bem vindos ao meu Git! 🧑‍🔬
 
-#### aqui são desenvolvidos meus desafios técnicos, experimentos e QG do Crime Code
+#### Aqui são desenvolvidos meus desafios técnicos, experimentos e QG do Crime Code
 
 ### Sobre mim
 
