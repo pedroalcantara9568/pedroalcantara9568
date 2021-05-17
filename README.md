@@ -16,10 +16,10 @@
  
  ### Desafios Técnicos:
  <div>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a href="https://github.com/pedroalcantara9568/pauta-api">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroalcantara9568&repo=pauta-api" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/pedroalcantara9568/delivery-api">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroalcantara9568&repo=delivery-api" />
   </a>
 </div>
