@@ -1,7 +1,7 @@
 
-### Bem vindos ao meu Git! 🧑‍🔬
+#### Bem vindos ao meu Git! 🧑‍🔬
 
-#### Aqui são desenvolvidos meus desafios técnicos, experimentos e QG do Crime Code
+##### Aqui são desenvolvidos meus desafios técnicos, experimentos e QG do Crime Code
 
 ### Sobre mim
 
