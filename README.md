@@ -1,2 +1,20 @@
+## Descatacam-se as habilidades e tecnologias:
+ - Desenvolvimento em arquitetura de microserviços guiado por testes escritos em Gherkin;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroalcantara9568&show_icons=true&theme=midnight-purple)
+ - Experiência em metodologias/frameworks ágil: SCRUM, XP, TDD, BDD e DDD; 
+
+ - Java, SpringBoot, Junit5, Cucumber.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroalcantara9568&layout=compact)](https://github.com/pedroalcantara9568/github-readme-stats) 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroalcantara9568&show_icons=true&theme=slateorange)
+
+
+
+
+
+
+
+
+
