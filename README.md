@@ -1,12 +1,13 @@
 
 ### Sobre mim:
 
- ###### :hammer_and_wrench: &nbsp; Java, SpringBoot, JUnit5, Selenium, Cucumber.
- ###### :rocket:  &nbsp; Buscando colaborar com projetos em back-end usando Java e Kafka.
- ###### :mortar_board: &nbsp; Formado em Análise e Desenvolvimento de Sistemas pela ***UMJ***.
- ###### :books: &nbsp; Estudando Design Pattern, Kafka e Sistemas Distribuidos.
- ###### :earth_americas: &nbsp; Maceió-AL - BR.
- #
+****:hammer_and_wrench: &nbsp; Java, SpringBoot, JUnit5, Selenium, Cucumber.****
+****<br> :rocket:  &nbsp; Buscando colaborar com projetos em back-end usando Java e Kafka.****
+<br> ****:mortar_board: &nbsp; Formado em Análise e Desenvolvimento de Sistemas pela ***UMJ***.****
+<br> ****:books: &nbsp; Estudando Design Pattern, Kafka e Sistemas Distribuidos.****
+<br> ****:earth_americas: &nbsp; Maceió-AL - BR.****
+#
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroalcantara9568&layout=compact)](https://github.com/pedroalcantara9568/github-readme-stats)   
