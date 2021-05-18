@@ -3,7 +3,7 @@
 ### Sobre
  -  Buscando colaborar com projetos em back-end usando Java e Kafka.
  -  🎓 Formado em Análise e Desenvolvimento de Sistemas pela ***UMJ***.
- -  📚 Estudando Design Pattern, Kafka e Sistemas Distribuidos.****
+ -  📚 Estudando Design Pattern, Kafka e Sistemas Distribuidos.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=peroalcantara9568)
 <div align="center"> 
