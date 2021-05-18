@@ -1,25 +1,29 @@
-<div align="left">  
+<div align="center">  
 
-  ### Sobre mim:
-  :hammer_and_wrench: &nbsp; Java, SpringBoot, JUnit5, Selenium, Cucumber.
-  <br> :rocket:  &nbsp; Buscando colaborar com projetos em back-end usando Java e Kafka.
-  <br> :mortar_board: &nbsp; Formado em Análise e Desenvolvimento de Sistemas pela ***UMJ***.
-  <br> :books: &nbsp; Estudando Design Pattern, Kafka e Sistemas Distribuidos.
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroalcantara9568&layout=compact)](https://github.com/pedroalcantara9568/github-readme-stats)   
- 
-###  Desafios Técnicos:
- <div>
-   
+### Sobre mim:
+ ***🚀 Buscando colaborar com projetos em back-end usando Java e Kafka.
+ <br>🎓  Formado em Análise e Desenvolvimento de Sistemas pela ***UMJ***.
+ <br> 📚 Estudando Design Pattern, Kafka e Sistemas Distribuidos.****
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=peroalcantara9568)  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+<div align="center"> 
   
-   <a href="https://github.com/pedroalcantara9568/pauta-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroalcantara9568&repo=pauta-api"/>
-  </a>
-  <a href="https://github.com/pedroalcantara9568/delivery-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroalcantara9568&repo=delivery-api" />
-  </a>
-</div>
-<br>
+## &#x1f4c8; Estatísticas
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroalcantara9568&show_icons=true&theme=dark)
- </div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroalcantara9568&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroalcantara9568&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"  />
+
+
+## 🗂️ Melhores Projetos
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroalcantara9568&repo=delivery-api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroalcantara9568&repo=pauta-api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+</div>
