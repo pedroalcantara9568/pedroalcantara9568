@@ -1,4 +1,4 @@
-<div align="center" >
+<div align="left" >
 
 #
 
@@ -8,6 +8,8 @@
   <br> 📚 Estudando Design Pattern, Kafka e Sistemas Distribuidos.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=peroalcantara9568)
+
+</div>
 <div align="center"> 
  
  #
