@@ -26,7 +26,6 @@
 <a href="https://github.com/pedroalcantara9568/delivery-api">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroalcantara9568&repo=delivery-api&show_icons=true&line_height=27&title_color=fff&text_color=fff&icon_color=fff&bg_color=111"/>
 </a>
-
 <a href="https://github.com/pedroalcantara9568/pauta-api">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroalcantara9568&repo=pauta-api&theme=compact&=show_icons=true&line_height=27&title_color=fff&text_color=fff&icon_color=fff&bg_color=111"/>
 </a>
