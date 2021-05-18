@@ -30,18 +30,4 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroalcantara9568&repo=pauta-api&theme=compact&=show_icons=true&line_height=27&title_color=fff&text_color=fff&icon_color=fff&bg_color=111"/>
 </a>
 
- #
- 
-  #
-<br>
-<br>
-<br>
-<br>
-
- <br/> [![Linkedin Badge](https://img.shields.io/badge/-PedroAlcântara-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroalcantara82/)](https://www.linkedin.com/in/pedroalcantara82/) 
-  
-[![Gmail Badge](https://img.shields.io/badge/-pedroalcantara.info@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:pedroalcantara.info@gmail.com)](mailto:pedroalcantara.info@gmail.com)
-
- #
-
 </div>
