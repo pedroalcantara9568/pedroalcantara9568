@@ -37,5 +37,12 @@
 <a href="https://github.com/pedroalcantara9568/pauta-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroalcantara9568&repo=pauta-api&theme=compact&=show_icons=true&line_height=27&title_color=fff&text_color=fff&icon_color=fff&bg_color=111"/>
 </a>
-
+<br>
+ <br>
+<a href="https://github.com/pedroalcantara9568/e-commerce-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroalcantara9568&repo=e-commerce-api&show_icons=true&line_height=27&title_color=fff&text_color=fff&icon_color=fff&bg_color=111"/>
+</a>
+<a href="https://github.com/pedroalcantara9568/pauta-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroalcantara9568&repo=conta-api&theme=compact&=show_icons=true&line_height=27&title_color=fff&text_color=fff&icon_color=fff&bg_color=111"/>
+</a>
 </div>
