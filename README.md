@@ -3,7 +3,7 @@
 #
 
 ### Sobre
- 🚀 Desenvolvedor back-end Java e Kafka.
+ 🚀 Desenvolvedor back-end Java.
  <br> 🎓 Formado em Análise e Desenvolvimento de Sistemas pela ***UMJ***.
   <br> 📚 Focado Design Pattern, Kafka e Sistemas Distribuidos e Sistema baseados em eventos.
 
