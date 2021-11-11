@@ -14,14 +14,19 @@
   <img align="center" alt="Pedro-Spring" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Pedro-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Pedro-Kafka" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
+  
   <img align="center" alt="Pedro-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Pedro-IDEA" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
   <img align="center" alt="Pedro-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Pedro-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Pedro-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Pedro-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Pedro-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg">
+  <img align="center" alt="Pedro-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg">
+
   <img align="center" alt="Pedro-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
+  <img align="center" alt="Pedro-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Pedro-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
   
+  <img align="center" alt="Pedro-IDEA" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
   
   
 </div>
