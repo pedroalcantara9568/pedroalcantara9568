@@ -11,8 +11,8 @@
   <div align="center">
  
  <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Spring" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Pedro-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Pedro-Spring" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Pedro-Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Pedro-Kafka" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
   
   <img align="center" alt="Pedro-Jenkins" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
