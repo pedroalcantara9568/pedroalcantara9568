@@ -10,10 +10,18 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=peroalcantara9568)
   <div align="center">
  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Pedro-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Pedro-Kafka" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
+</div>
+<br>
 <div> 
   <a href = "mailto:pedroalcantara.info@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedroalcantara82/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+ 
  
 
 </div>
