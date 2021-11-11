@@ -4,8 +4,8 @@
 
 ### Sobre
  🚀 Desenvolvedor back-end Java.
- <br> 🎓 Formado em Análise e Desenvolvimento de Sistemas pela ***UMJ***.
-  <br> 📚 Focado Design Pattern, Kafka e Sistemas Distribuidos e Sistema baseados em eventos.
+ <br> 🎓 Formado em Análise e Desenvolvimento de Sistemas.
+  <br> 📚 Design Pattern, Kafka, Sistemas Distribuidos e Sistema baseados em eventos.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=peroalcantara9568)
   <div align="center">
