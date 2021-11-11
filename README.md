@@ -13,7 +13,17 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Pedro-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" background="white" alt="Pedro-Kafka" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
+  <img align="center" alt="Pedro-Kafka" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
+  <img align="center" alt="Pedro-Jenkins" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Pedro-IDEA" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
+  <img align="center" alt="Pedro-Jenkins" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Pedro-Jenkins" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Pedro-Jenkins" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Pedro-Jenkins" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Pedro-Jenkins" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Pedro-Jenkins" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+  
+  
 </div>
 <br>
 <div> 
